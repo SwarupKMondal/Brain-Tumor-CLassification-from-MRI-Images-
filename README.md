@@ -1,6 +1,6 @@
 # Brain-Tumor-CLassification-from-MRI-Images-
 
-Detected Brain tumor in a large set of data of MRI images and analyzed it. Used COnvolution Neural network to deploy and train the model and achieved an accuracy of 98%.
+Detected Brain tumor in a large set of data of MRI images and analyzed it. Used Convolution Neural network to deploy and train the model and achieved an accuracy of 98%.
 
 ## Technology Used
 
